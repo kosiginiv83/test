@@ -2,4 +2,6 @@
 
 Some text
 
-Yet another text new
+Yet another text
+
+After new branch added
